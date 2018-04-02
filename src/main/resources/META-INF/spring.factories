@@ -1,0 +1,3 @@
+# Bootstrap Komponenten des Foundation-Layers
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+sample.MyConfiguration
